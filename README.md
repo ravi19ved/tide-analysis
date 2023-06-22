@@ -7,6 +7,6 @@ Tide Data Analysis pertains to everything that is received from Tide Gauge Netwo
 <li> Daily Data Reception
 <li> Monthly Data Reception
 <li> Other new features
-</li>
-<br><br>
-<i> The Tide data can be analysed in multiple ways, Frequency Analysis, Spectral Analysis, Harmonic Analysis and Stastical Analysis.  Throughout this process, various scientific techniques need to be used which have been coded using multiple open source packages available in the python stand library and python packages. </i>
+
+  
+
