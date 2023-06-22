@@ -7,6 +7,3 @@ Tide Data Analysis pertains to everything that is received from Tide Gauge Netwo
 <li> Daily Data Reception
 <li> Monthly Data Reception
 <li> Other new features
-
-  
-
