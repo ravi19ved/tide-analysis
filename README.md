@@ -7,12 +7,3 @@ Tide Data Analysis pertains to everything that is received from Tide Gauge Netwo
 <li> Daily Data Reception
 <li> Monthly Data Reception
 <li> Other new features
-<li> The list goes on and on...
-</li></i>
-<br><br>
-<i> The Tide data can be analysed in multiple ways, Frequency Analysis, Spectral Analysis, Harmonic Analysis and Statistical Analysis.  Throughout this process, various scientific techniques need to be used, which have been coded using multiple open-source packages available in the Python stand library and Python packages. </i>
-<br><br>
-<i>This repository has also been forked by the T-Tide and U-Tide PyQt5 Interface source code for tide data analysis for longer timer periods. The overall repository contains self-development and code repos from other tide data analysis packages and other tide data repositories combined. </i>
-<br><br>
-<i> The Tide data can be analysed in multiple ways, Frequency Analysis, Spectral Analysis, Harmonic Analysis and Statistical Analysis.  Throughout this process, various scientific techniques need to be used, which have been coded using multiple open-source packages available in the Python stand library and Python packages. </i>
-<br><br>
