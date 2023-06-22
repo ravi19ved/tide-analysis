@@ -8,4 +8,4 @@ Tide Data Analysis pertains to everything that is received from Tide Gauge Netwo
 <li> Other new features
 <li> The list goes on and on...
 <br><br>
-This repository also has been forked by the source code of T-Tide and U-Tide PyQt5 Interface for tide data analysis for longer timer periods. The overall repository contains both self development, code repos from other tide data analysis packages and other tide data repositories combined. 
+<i>This repository also has been forked by the source code of T-Tide and U-Tide PyQt5 Interface for tide data analysis for longer timer periods. The overall repository contains both self development, code repos from other tide data analysis packages and other tide data repositories combined. </i>
