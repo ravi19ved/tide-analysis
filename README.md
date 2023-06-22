@@ -5,3 +5,4 @@ Tide Data Analysis pertains to everything that is received from Tide Gauge Netwo
 <i> The list of features that were incorporated in this repository are: </i>
 <li> Daily Data Reception
 <li> Monthly Data Reception
+<li> Other new features
