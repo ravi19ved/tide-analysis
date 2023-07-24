@@ -1,0 +1,1 @@
+name	frq	lind	A	g	A_ci	g_ci	PE	SNR
